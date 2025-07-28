@@ -16,7 +16,7 @@ This project is a powerful **TikTok Automation Bot** that automates various task
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mysterecode/tiktok-automation-bot.git
+   git clone https://github.com/terczadavid/TikTok-Bot-Automation.git
    ```
 2. Install the required packages:
    ```bash
@@ -117,6 +117,3 @@ This TikTok Automation Bot is just the beginning. Imagine harnessing even more a
 -   **TikTok Comment & Mention Sentiment Analysis Bot**: Build a bot that analyzes comments and mentions on your TikTok videos for **sentiment (positive, negative, neutral)**. This can help you quickly identify customer feedback, manage your brand reputation, and prioritize responses.
 
 ## **Ready to Automate Your TikTok Empire?**
-
-For custom automation or scraping projects, feel free to reach out to me via Telegram:  
-**[mysteredev](https://t.me/mysteredev)**
