@@ -177,13 +177,13 @@ def run_bot():
         login(email, password)
         
         # Get video path from environment variable or use default
-        video_path = os.getenv('VIDEO_PATH', os.path.join(os.path.dirname(__file__), "1.mp4"))
+        video_path = os.getenv('VIDEO_PATH', os.path.join(os.path.dirname(__file__)))
         
         # Get caption from environment variable or use default
-        caption = os.getenv('VIDEO_CAPTION', 'Check out this cool video!')
+        caption = os.getenv('VIDEO_CAPTION')
         
         # Get hashtags from environment variable (comma-separated)
-        hashtags = os.getenv('VIDEO_HASHTAGS', 'tiktok,viral').split(',')
+        hashtags = os.getenv('VIDEO_HASHTAGS').split(',')
         
         try:
             upload_video(video_path, caption, hashtags)
@@ -203,10 +203,8 @@ if __name__ == "__main__":
     ******************************************************
     Welcome to the TikTok Automation Bot Project!
     
-    Developed by: mysterecode (mysteredev)
-    Available for collaboration and freelance projects.
+    Developed by: tercz
     
-    Contact me on Telegram: mysteredev
     ******************************************************
     """)
     run_bot()

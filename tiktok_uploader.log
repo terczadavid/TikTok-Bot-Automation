@@ -488,3 +488,272 @@ Stacktrace:
 2025-07-28 13:39:11.038 | ERROR    | __main__:upload_video:159 - Failed to upload video: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
 2025-07-28 13:39:11.039 | ERROR    | __main__:run_bot:192 - Video upload failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
 2025-07-28 13:39:11.039 | ERROR    | __main__:run_bot:198 - Bot execution failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-28 13:48:30.390 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:48:38.584 | ERROR    | __main__:upload_video:159 - Failed to upload video: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:48:38.585 | ERROR    | __main__:run_bot:192 - Video upload failed: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:48:38.585 | ERROR    | __main__:run_bot:198 - Bot execution failed: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:49:36.885 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:49:39.887 | ERROR    | __main__:upload_video:92 - Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:49:39.887 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:49:39.887 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:49:39.887 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:50:07.354 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:50:10.355 | ERROR    | __main__:upload_video:92 - Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:50:10.356 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:50:10.356 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:50:10.356 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: "Money Motivation Content"\1.mp4
+2025-07-28 13:51:24.891 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:51:27.892 | ERROR    | __main__:upload_video:92 - Video file not found: Money%20Motivation%20Content\1.mp4
+2025-07-28 13:51:27.892 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: Money%20Motivation%20Content\1.mp4
+2025-07-28 13:51:27.892 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: Money%20Motivation%20Content\1.mp4
+2025-07-28 13:51:27.892 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: Money%20Motivation%20Content\1.mp4
+2025-07-28 13:53:07.276 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:53:16.342 | ERROR    | __main__:upload_video:159 - Failed to upload video: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:53:16.342 | ERROR    | __main__:run_bot:192 - Video upload failed: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:53:16.343 | ERROR    | __main__:run_bot:198 - Bot execution failed: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:54:44.694 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:54:52.311 | ERROR    | __main__:upload_video:159 - Failed to upload video: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:54:52.312 | ERROR    | __main__:run_bot:192 - Video upload failed: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:54:52.312 | ERROR    | __main__:run_bot:198 - Bot execution failed: Message: unknown error: path is not absolute: Money Motivation Content\1.mp4
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3cc7bf]
+	(No symbol) [0x0x7ff64d407cec]
+	(No symbol) [0x0x7ff64d4388ca]
+	(No symbol) [0x0x7ff64d402f76]
+	(No symbol) [0x0x7ff64d438ae0]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:56:35.193 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:56:38.195 | ERROR    | __main__:upload_video:92 - Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content
+2025-07-28 13:56:38.196 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content
+2025-07-28 13:56:38.196 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content
+2025-07-28 13:56:38.196 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content
+2025-07-28 13:58:03.112 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:58:06.114 | ERROR    | __main__:upload_video:92 - Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:06.114 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:06.114 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:06.114 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: C:\Users\{USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:37.927 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:58:40.928 | ERROR    | __main__:upload_video:92 - Video file not found: C:\Users\{CURRENT_USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:40.928 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: C:\Users\{CURRENT_USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:40.928 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: C:\Users\{CURRENT_USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:58:40.928 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: C:\Users\{CURRENT_USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 13:59:07.296 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:59:13.617 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\Money Motivation Content\1.mp4
