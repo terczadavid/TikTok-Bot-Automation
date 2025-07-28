@@ -28,20 +28,72 @@ This project is a powerful **TikTok Automation Bot** that automates various task
    ```
 
 ## Usage
-To automate TikTok tasks, simply edit the configuration in `main.py` with your login credentials, the number of comments, and the video to be uploaded.
+The TikTok Video Upload Bot automates video uploads to TikTok with support for:
+- Video file upload
+- Custom captions
+- Hashtag support
+- Environment variable configuration
+- Automatic login with cookie persistence
+- Detailed logging
 
-### Example
-Here's a simple example of how to run the bot:
-```python
-from seleniumbase import Driver
-from social_media import tiktok
+### Environment Variables
+The bot supports configuration through environment variables:
+- `TIKTOK_EMAIL`: Your TikTok account email
+- `TIKTOK_PASSWORD`: Your TikTok account password
+- `VIDEO_PATH`: Path to the video file to upload (default: my_video.mp4 in script directory)
+- `VIDEO_CAPTION`: Video caption text (default: "Check out this cool video!")
+- `VIDEO_HASHTAGS`: Comma-separated list of hashtags (default: "tiktok,viral")
 
-driver = Driver(uc=True)
-driver.maximize_window()
-
-# Run the bot
-run_bot()
+### Running the Bot
+1. Set up environment variables:
+```bash
+# Create .env file
+TIKTOK_EMAIL=your-email@example.com
+TIKTOK_PASSWORD=your-password
+VIDEO_PATH=/path/to/your/video.mp4
+VIDEO_CAPTION="Your custom caption"
+VIDEO_HASHTAGS="hashtag1,hashtag2,hashtag3"
 ```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the bot:
+```bash
+python main.py
+```
+
+The bot will:
+1. Log in to TikTok (using saved cookies if available)
+2. Navigate to the upload page
+3. Upload the specified video file
+4. Add the caption and hashtags
+5. Post the video
+
+### Logging
+The bot maintains detailed logs in `tiktok_uploader.log` with:
+- Login attempts and status
+- Video upload progress
+- Error tracking and debugging information
+
+### Error Handling
+The bot includes robust error handling for:
+- Invalid video files
+- Login failures
+- Network issues
+- TikTok page loading delays
+- Missing elements or DOM changes
+
+### Tips for Success
+1. Ensure your video file meets TikTok's requirements:
+   - Maximum size: 1.5GB
+   - Supported formats: MP4, MOV, AVI
+   - Maximum duration: 3 minutes
+2. Use relevant and popular hashtags
+3. Keep captions concise (maximum 150 characters)
+4. Allow sufficient time between uploads to avoid rate limiting
 
 ## Future Enhancements
 - Add support for more social media platforms like Instagram and YouTube.

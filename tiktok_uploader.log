@@ -1,0 +1,490 @@
+2025-07-28 11:45:48.924 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 11:45:51.924 | ERROR    | __main__:upload_video:92 - Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 11:45:51.925 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 11:45:51.925 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 11:45:51.927 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 11:47:51.194 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 11:47:57.797 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 11:48:58.216 | ERROR    | __main__:upload_video:159 - Failed to upload video: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:48:58.217 | ERROR    | __main__:run_bot:192 - Video upload failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:48:58.217 | ERROR    | __main__:run_bot:198 - Bot execution failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:51:28.216 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 11:51:35.086 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 11:52:35.461 | ERROR    | __main__:upload_video:245 - Failed to upload video: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:52:35.462 | ERROR    | __main__:run_bot:278 - Video upload failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:52:35.462 | ERROR    | __main__:run_bot:284 - Bot execution failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:54:20.813 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 11:54:28.469 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 11:54:50.754 | ERROR    | __main__:upload_video:321 - Failed to upload video: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3a5f35]
+	(No symbol) [0x0x7ff64d3caabe]
+	(No symbol) [0x0x7ff64d43feb5]
+	(No symbol) [0x0x7ff64d460432]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:54:50.755 | ERROR    | __main__:run_bot:354 - Video upload failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3a5f35]
+	(No symbol) [0x0x7ff64d3caabe]
+	(No symbol) [0x0x7ff64d43feb5]
+	(No symbol) [0x0x7ff64d460432]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:54:50.755 | ERROR    | __main__:run_bot:360 - Bot execution failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3a5f35]
+	(No symbol) [0x0x7ff64d3caabe]
+	(No symbol) [0x0x7ff64d43feb5]
+	(No symbol) [0x0x7ff64d460432]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:56:06.102 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 11:56:13.874 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 11:56:30.810 | ERROR    | __main__:upload_video:159 - Failed to upload video: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3a5f35]
+	(No symbol) [0x0x7ff64d3caabe]
+	(No symbol) [0x0x7ff64d43feb5]
+	(No symbol) [0x0x7ff64d460432]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:56:30.810 | ERROR    | __main__:run_bot:192 - Video upload failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3a5f35]
+	(No symbol) [0x0x7ff64d3caabe]
+	(No symbol) [0x0x7ff64d43feb5]
+	(No symbol) [0x0x7ff64d460432]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 11:56:30.810 | ERROR    | __main__:run_bot:198 - Bot execution failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d3a5f35]
+	(No symbol) [0x0x7ff64d3caabe]
+	(No symbol) [0x0x7ff64d43feb5]
+	(No symbol) [0x0x7ff64d460432]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 12:13:05.284 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 12:13:12.148 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 12:14:12.222 | ERROR    | __main__:upload_video:183 - Failed to upload video: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 12:14:12.222 | ERROR    | __main__:run_bot:216 - Video upload failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 12:14:12.222 | ERROR    | __main__:run_bot:222 - Bot execution failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:27:26.498 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:27:29.499 | ERROR    | __main__:upload_video:92 - Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:27:29.500 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:27:29.501 | ERROR    | __main__:run_bot:188 - Video upload failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:27:29.501 | ERROR    | __main__:run_bot:194 - Bot execution failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:30:10.786 | WARNING  | __main__:load_cookies:35 - Failed to load cookies: invalid load key, '['.
+2025-07-28 13:30:10.786 | ERROR    | __main__:login:108 - Login failed: 'function' object has no attribute 'get'
+2025-07-28 13:30:10.786 | ERROR    | __main__:run_bot:236 - Bot execution failed: 'function' object has no attribute 'get'
+2025-07-28 13:30:21.594 | WARNING  | __main__:load_cookies:35 - Failed to load cookies: invalid load key, '['.
+2025-07-28 13:30:21.594 | ERROR    | __main__:login:108 - Login failed: 'function' object has no attribute 'get'
+2025-07-28 13:30:21.594 | ERROR    | __main__:run_bot:236 - Bot execution failed: 'function' object has no attribute 'get'
+2025-07-28 13:31:37.299 | WARNING  | __main__:load_cookies:35 - Failed to load cookies: invalid load key, '['.
+2025-07-28 13:31:37.300 | ERROR    | __main__:login:108 - Login failed: 'function' object has no attribute 'get'
+2025-07-28 13:31:37.300 | ERROR    | __main__:run_bot:236 - Bot execution failed: 'function' object has no attribute 'get'
+2025-07-28 13:34:07.176 | WARNING  | __main__:load_cookies:35 - Failed to load cookies: invalid load key, '['.
+2025-07-28 13:34:07.176 | INFO     | __main__:login:78 - Attempting to login with credentials
+2025-07-28 13:34:07.176 | ERROR    | __main__:login:112 - Login failed: 'function' object has no attribute 'get'
+2025-07-28 13:34:07.177 | ERROR    | __main__:upload_video:163 - Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:34:07.177 | ERROR    | __main__:upload_video:230 - Failed to upload video: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:34:07.177 | ERROR    | __main__:run_bot:270 - Video upload failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:34:07.177 | ERROR    | __main__:run_bot:276 - Bot execution failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:35:02.586 | WARNING  | __main__:load_cookies:35 - Failed to load cookies: invalid load key, '['.
+2025-07-28 13:35:02.588 | INFO     | __main__:login:78 - Attempting to login with credentials
+2025-07-28 13:35:02.588 | ERROR    | __main__:login:112 - Login failed: 'function' object has no attribute 'get'
+2025-07-28 13:35:18.340 | ERROR    | __main__:upload_video:230 - Failed to upload video: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70585e935+77845]
+	GetHandleVerifier [0x0x7ff70585e990+77936]
+	(No symbol) [0x0x7ff705619cda]
+	(No symbol) [0x0x7ff705605f35]
+	(No symbol) [0x0x7ff70562aabe]
+	(No symbol) [0x0x7ff70569feb5]
+	(No symbol) [0x0x7ff7056c0432]
+	(No symbol) [0x0x7ff7056986a3]
+	(No symbol) [0x0x7ff705661791]
+	(No symbol) [0x0x7ff705662523]
+	GetHandleVerifier [0x0x7ff705b3684d+3059501]
+	GetHandleVerifier [0x0x7ff705b30c0d+3035885]
+	GetHandleVerifier [0x0x7ff705b50400+3164896]
+	GetHandleVerifier [0x0x7ff705878c3e+185118]
+	GetHandleVerifier [0x0x7ff70588054f+216111]
+	GetHandleVerifier [0x0x7ff7058672e4+113092]
+	GetHandleVerifier [0x0x7ff705867499+113529]
+	GetHandleVerifier [0x0x7ff70584e298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:35:18.341 | ERROR    | __main__:run_bot:270 - Video upload failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70585e935+77845]
+	GetHandleVerifier [0x0x7ff70585e990+77936]
+	(No symbol) [0x0x7ff705619cda]
+	(No symbol) [0x0x7ff705605f35]
+	(No symbol) [0x0x7ff70562aabe]
+	(No symbol) [0x0x7ff70569feb5]
+	(No symbol) [0x0x7ff7056c0432]
+	(No symbol) [0x0x7ff7056986a3]
+	(No symbol) [0x0x7ff705661791]
+	(No symbol) [0x0x7ff705662523]
+	GetHandleVerifier [0x0x7ff705b3684d+3059501]
+	GetHandleVerifier [0x0x7ff705b30c0d+3035885]
+	GetHandleVerifier [0x0x7ff705b50400+3164896]
+	GetHandleVerifier [0x0x7ff705878c3e+185118]
+	GetHandleVerifier [0x0x7ff70588054f+216111]
+	GetHandleVerifier [0x0x7ff7058672e4+113092]
+	GetHandleVerifier [0x0x7ff705867499+113529]
+	GetHandleVerifier [0x0x7ff70584e298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:35:18.341 | ERROR    | __main__:run_bot:276 - Bot execution failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70585e935+77845]
+	GetHandleVerifier [0x0x7ff70585e990+77936]
+	(No symbol) [0x0x7ff705619cda]
+	(No symbol) [0x0x7ff705605f35]
+	(No symbol) [0x0x7ff70562aabe]
+	(No symbol) [0x0x7ff70569feb5]
+	(No symbol) [0x0x7ff7056c0432]
+	(No symbol) [0x0x7ff7056986a3]
+	(No symbol) [0x0x7ff705661791]
+	(No symbol) [0x0x7ff705662523]
+	GetHandleVerifier [0x0x7ff705b3684d+3059501]
+	GetHandleVerifier [0x0x7ff705b30c0d+3035885]
+	GetHandleVerifier [0x0x7ff705b50400+3164896]
+	GetHandleVerifier [0x0x7ff705878c3e+185118]
+	GetHandleVerifier [0x0x7ff70588054f+216111]
+	GetHandleVerifier [0x0x7ff7058672e4+113092]
+	GetHandleVerifier [0x0x7ff705867499+113529]
+	GetHandleVerifier [0x0x7ff70584e298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 13:38:13.626 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:38:16.628 | ERROR    | __main__:upload_video:92 - Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 13:38:16.629 | ERROR    | __main__:upload_video:159 - Failed to upload video: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 13:38:16.630 | ERROR    | __main__:run_bot:192 - Video upload failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 13:38:16.630 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: C:\Users\tercz\Documents\TikTokDownloader\my_video.mp4
+2025-07-28 13:38:51.885 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 13:39:02.422 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\1.mp4
+2025-07-28 13:39:11.038 | ERROR    | __main__:upload_video:159 - Failed to upload video: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-28 13:39:11.039 | ERROR    | __main__:run_bot:192 - Video upload failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-28 13:39:11.039 | ERROR    | __main__:run_bot:198 - Bot execution failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
