@@ -60,10 +60,13 @@ def download_video():
 if __name__ == "__main__":
     print("""
     ******************************************************
-    TikTok Video Downloader
+    Video Downloader
     
     This script helps you download videos using yt-dlp.
     Simply enter the video URL when prompted.
+
+    Developed by: tercz
+
     ******************************************************
     """)
     download_video()

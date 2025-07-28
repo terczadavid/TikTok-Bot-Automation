@@ -757,3 +757,81 @@ Stacktrace:
 2025-07-28 13:58:40.928 | ERROR    | __main__:run_bot:198 - Bot execution failed: Video file not found: C:\Users\{CURRENT_USER}\Documents\TikTokDownloader\Money Motivation Content\1.mp4
 2025-07-28 13:59:07.296 | INFO     | __main__:login:46 - Successfully logged in using cookies
 2025-07-28 13:59:13.617 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 15:10:07.789 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 15:10:29.807 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 15:11:14.308 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 15:11:22.618 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\Money Motivation Content\1.mp4
+2025-07-28 15:12:22.764 | ERROR    | __main__:upload_video:159 - Failed to upload video: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 15:12:22.765 | ERROR    | __main__:run_bot:192 - Video upload failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 15:12:22.765 | ERROR    | __main__:run_bot:198 - Bot execution failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64d5fe935+77845]
+	GetHandleVerifier [0x0x7ff64d5fe990+77936]
+	(No symbol) [0x0x7ff64d3b9cda]
+	(No symbol) [0x0x7ff64d4106aa]
+	(No symbol) [0x0x7ff64d41095c]
+	(No symbol) [0x0x7ff64d463d07]
+	(No symbol) [0x0x7ff64d43890f]
+	(No symbol) [0x0x7ff64d460b07]
+	(No symbol) [0x0x7ff64d4386a3]
+	(No symbol) [0x0x7ff64d401791]
+	(No symbol) [0x0x7ff64d402523]
+	GetHandleVerifier [0x0x7ff64d8d684d+3059501]
+	GetHandleVerifier [0x0x7ff64d8d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff64d8f0400+3164896]
+	GetHandleVerifier [0x0x7ff64d618c3e+185118]
+	GetHandleVerifier [0x0x7ff64d62054f+216111]
+	GetHandleVerifier [0x0x7ff64d6072e4+113092]
+	GetHandleVerifier [0x0x7ff64d607499+113529]
+	GetHandleVerifier [0x0x7ff64d5ee298+10616]
+	BaseThreadInitThunk [0x0x7ffe27ac259d+29]
+	RtlUserThreadStart [0x0x7ffe29acaf78+40]
+
+2025-07-28 15:13:06.730 | INFO     | __main__:login:46 - Successfully logged in using cookies
+2025-07-28 15:13:39.531 | INFO     | __main__:upload_video:106 - Video file uploaded: C:\Users\tercz\Documents\TikTokDownloader\Money Motivation Content\1.mp4
